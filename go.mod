@@ -1,4 +1,4 @@
-module github.com/YOUR-USERNAME/qramm-crypto-lab
+module github.com/abenaventem/qramm-crypto-lab
 go 1.21
 require (
 	golang.org/x/crypto v0.18.0
