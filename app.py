@@ -1,5 +1,3 @@
-Python
-
 import hashlib
 from Crypto.Cipher import AES, PKCS1_OAEP
 from Crypto.PublicKey import RSA
